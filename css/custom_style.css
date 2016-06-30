@@ -1,0 +1,76 @@
+/* this is my custom CSS */
+.list {
+       /*background-color:#fff;
+       border: 1px solid #d4d4d4; */
+       height:120px;
+       margin: 20px;
+       /*position: relative; */
+   }
+.cardHeader {
+    /*background-color:#027FF4;*/
+    font-size:14pt;
+    color:white;
+    padding:5px;
+    width:100%;
+}
+.cardContainer{
+    width:85%;
+}
+.cardBody {
+    padding-left: 5px;
+}
+.cardBodyLeft {
+    margin-top: 2px;
+}
+.cardBodyRight {
+    margin-left: 20px;
+    margin-top: 2px;
+}
+.cardBodyContent {
+    width: 100px;
+}
+.cardImage {
+    height:50px;width:50px;margin-top:10px;
+}
+.close {
+    font-size:15pt;
+    opacity: 1.0;
+}
+.cardClose {
+    color: white;
+    font-weight:bold;
+    margin-right:5px;
+}
+.formDiv {
+    background-color:#eee; 
+    width: 300px;
+    height: 500px;
+}
+.edit {
+    color: blue;
+    background-color: white;
+}
+#bhukkad {
+  background-color: #4B77BE;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0px;
+}
+#bhukkad a{
+  color: white;
+}
+.address-bar {
+    padding: 1em;
+    background-color: #89C4F4;
+    color: black;
+    margin-bottom: 1em;
+}
+.address-bar a {
+    color: black;
+}
+.navbar-custom a{
+    font-size: 1.5em;
+}
+.brand-custom a{
+    font-size: 2em;
+}

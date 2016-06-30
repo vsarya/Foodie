@@ -1,0 +1,22 @@
+<div class="container">
+  <table class="table table-striped col-sm-10-md-3">
+   <div class="row ">
+      <thead>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Add</th>
+      </div>  
+      </thead>
+      <tbody>
+      <div class="row ">
+        <tr ng-repeat="menuItem in menuDetail.menuItems">
+        <td>{{menuItem.name}} </td>
+        <td> {{menuItem.price}}</td>
+       <td> <span class="glyphicon glyphicon-plus "></td> 
+        </tr>
+        </div>
+      </div>
+   </tbody>
+  </table>
+  
+ </div>
